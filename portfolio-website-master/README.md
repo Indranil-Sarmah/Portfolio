@@ -1,30 +1,45 @@
-[![Watch tutorial here](https://img.youtube.com/vi/sUKptmUVIBM/0.jpg)](https://youtu.be/sUKptmUVIBM)
+Welcome to my simple portfolio website! 
 
-# [Watch video here](https://youtu.be/sUKptmUVIBM)
+Features
+---------------
+1. Smooth Scrolling to different sections.
+2. Github Contribution Chart.
+3. Simple pop animation of components. 
+3. Based on Mordern looks and layouts.
+5. Reponsive design supporting all devices with different aspect ratios.
 
-## What you will learn
+Compontents
+----------------
+1. Navigation Tab
+2. Home Section
+3. About Section
+4. Skills Section
+5. Experience Section
 
-- Latest Next.js 13 features
-- Next.js App Router
-- Next.js Server Actions
-- Client & Server Components
-- TypeScript (Beginner & Intermediate)
-- Tailwind CSS
-- Context API
-- Advanced Animations with Framer Motion
-- React.Email & Resend
-- Custom React hooks
-- Fresh, modern UI design
-- Light & Dark mode
-- Responsive website
+Future Enhancements
+------------------
+1. Projects Section
+2. Contact Section
+3. Blog Section
+4. Testimonial Section
+5. Buy me coffee
 
-## Important
 
-If you want to be a professional developer, you have to know the fundamentals like JavaScript and CSS really well. I highly recommend you go through my [Professional JavaScript](https://bytegrad.com/courses/professional-javascript) and [Professional CSS](https://bytegrad.com/courses/professional-css) courses.
+Deployed into - Netlify
 
-I'm close to releasing a complete React & Next.js course. Get on the email list to receive early-bird pricing: [link](https://email.bytegrad.com/).
+You can customise your portfolio by making this as your template.
 
-## Setup
+Installation
+--------------------
+1. Clone
+git clone https://github.com/Indranil-Sarmah/Portfolio.git
 
-1. Add RESEND_API_KEY environment variable in .env.local
-2. In the send-email.ts action file, change the "to" email to your own email
+2. Navigate to the project directory
+3. Install dependencies:
+npm install
+
+4. Run it by
+npm run dev
+
+5. Customize it according to your requirements. 
+6. Thank me by giving a star in the repo.
