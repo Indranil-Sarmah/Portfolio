@@ -1,0 +1,71 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+::-webkit-scrollbar-track
+{
+	-webkit-box-shadow: inset 0 0 6px rgba(138, 221, 175, 0.3);
+	background-color: #ffffff;
+}
+
+::-webkit-scrollbar
+{
+	width: 6px;
+	background-color: #ffffff;
+}
+
+::-webkit-scrollbar-thumb
+{
+	background-color: #b8f0bb;
+}
+
+@keyframes waveColor {
+	0% {
+	  background-color: #b0eec3;
+	}
+	10% {
+		background-color: #89d19f;
+	}
+	20% {
+		background-color: #65b97e;
+	}
+	30% {
+		background-color: #7fca93;
+	}
+	40% {
+		background-color: #9bdfaf;
+	}
+	50% {
+		background-color: #88d19d;
+	}
+	60% {
+	  background-color: #90d6a5; /* Midpoint color */
+	}
+	70% {
+		background-color: #7cc794; /* Midpoint color */
+	}
+	80% {
+		background-color: #95ebb0; /* Midpoint color */
+	}
+	90% {
+		background-color: #a2e0b6; /* Midpoint color */
+	}
+	100% {
+	  background-color: #b0eec3;
+	}
+  }
+
+  .wave-transition {
+	position: absolute;
+	top: -1;
+	left: -35rem;
+	height: 31.25rem;
+	width: 50rem;
+	border-radius: 50%;
+	filter: blur(10rem);
+	width: 68.75rem;
+	left: -33rem;
+	animation: waveColor 30s infinite; /* You can adjust the duration as needed */
+	/* Add other styling properties here */
+  }
