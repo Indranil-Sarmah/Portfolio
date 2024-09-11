@@ -37,7 +37,7 @@ export const experiencesData = [
   {
     title: "MCA",
     location: "Birla Institute of Technology,Mesra",
-    description:"Completed my 3-years Master's degree programme.",
+    description:"Completed 3-year Master’s degree program in Computer Applications.",
     icon: React.createElement(LuGraduationCap),
     date: "2022",
   },
