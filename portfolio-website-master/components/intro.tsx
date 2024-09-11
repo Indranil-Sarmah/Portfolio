@@ -101,7 +101,7 @@ const Intro = () => {
         <div className='flex'>
 
           <a
-            className="bg-white p-4 text-gray-700 hover:text-gray-950 flex items-center gap-2 ml-2 rounded-full focus:scale-[1.15] hover:scale-[1.15] active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10 dark:text-white/60"
+            className="bg-white p-4 text-gray-700 hover:text-gray-950 flex items-center gap-2 ml-2 rounded-full focus:scale-[1.15] hover:scale-[1.15] active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10 dark:text-white/60 border-green-400 dark:border-white"
             href="https://www.linkedin.com/in/indranil-sarmah-86a422141/"
             target="_blank"
           >
@@ -109,7 +109,7 @@ const Intro = () => {
           </a>
 
           <a
-            className="bg-white p-4 text-gray-700 flex items-center gap-2 ml-2 text-[1.35rem] rounded-full focus:scale-[1.15] hover:scale-[1.15] hover:text-gray-950 active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10 dark:text-white/60"
+            className="bg-white p-4 text-gray-700 flex items-center gap-2 ml-2 text-[1.35rem] rounded-full focus:scale-[1.15] hover:scale-[1.15] hover:text-gray-950 active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10 dark:text-white/60 "
             href="https://github.com/Indranil-Sarmah"
             target="_blank"
           >

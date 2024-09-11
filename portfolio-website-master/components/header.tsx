@@ -9,7 +9,7 @@ function Header() {
     
     return (
         <header className='z-[999] relative'>
-            <motion.div className='fixed top-0 left-1/2 h-[4.5rem] w-full rounded-none border border-white border-opacity-40 bg-white bg-opacity-95 showdow-lg shadow-black/[0.03] backdrop-blur-[0.5]rem sm:top-6 sm:h-[3.25rem] sm:w-[25rem] sm:rounded-full'
+            <motion.div className='fixed top-0 left-1/2 h-[4.5rem] w-full rounded-none border border-green-50 dark:border-white border-opacity-40 bg-white bg-opacity-95 showdow-lg shadow-black/[0.03] backdrop-blur-[0.5]rem sm:top-6 sm:h-[3.25rem] sm:w-[25rem] sm:rounded-full '
                 initial={{ y: -100, x: "-50%", opacity: 0 }}
                 animate={{ y: 0, x: "-50%", opacity: 1 }}
 
