@@ -18,6 +18,7 @@ const Intro = () => {
   const localImage = require('../public/INDARANIL_PHOTO.jpg').default;
   // const { ref } = useSectionInView("Home", 0.5);
   // const { setActiveSection, setTimeOfLastClick } = useActiveSectionContext();
+  //change
 
   return (
     <section className='mb max-w-[50rem] text-center sm:mb-0'>
