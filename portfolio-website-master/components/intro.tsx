@@ -65,7 +65,7 @@ const Intro = () => {
           <br /></span>
         <span> I am {" "}<span className='font-extrabold'>Indranil.</span></span><br />
         <span className="font-bold">Frontend Engineer</span> with{" "}
-        <span className="underline font-bold" style={{textDecorationColor:"#009f22"}}>2 years</span> of experience<br /> <span 
+        <span className="underline font-bold" style={{textDecorationColor:"#009f22"}}>2.5+ years</span> of experience<br /> <span 
         className="font-mono text-sm font-semibold text-stone-700 hidden dark:text-gray-50 md:block"
         >{`"Crafting user-friendly sites for superior online interactions"`}</span>
         </span>
