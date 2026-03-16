@@ -55,7 +55,15 @@ export const experiencesData = [
     description:
       "Currently working as a full-time employee, where I have contributed to building the UI for the iPSRO and Arthur modules in the CDAR platform.",
     icon: React.createElement(CgWorkAlt),
-    date: "July 2022 - Present",
+    date: "July 2022 - March 2026",
+  },
+  {
+    title: "Senior Engineer - IT",
+    location: "BCPL, Dibrugarh",
+    description:
+      "Senior IT Engineer at BCPL handling full-spectrum IT of operations including .NET/C# web applications, networking, infrastructure management, SAP S/4HANA support, and IT contract & procurement processes.",
+    icon: React.createElement(CgWorkAlt),
+    date: "March 2026 - Present",
   },
 ] as const;
 
@@ -90,7 +98,7 @@ export const skillsData = [
   "TypeScript",
   "React",
   "Next.js",
-  "C",
+  "C#",
   "C++",
   "Node.js",
   "Git",
@@ -101,5 +109,6 @@ export const skillsData = [
   "Express",
   "Python",
   "Framer Motion",
-  "Jenkins"
+  "Jenkins",
+  ".NET"
 ] as const;
