@@ -61,7 +61,7 @@ export const experiencesData = [
     title: "Senior Engineer - IT",
     location: "BCPL, Dibrugarh",
     description:
-      "Senior IT Engineer at BCPL handling full-spectrum IT of operations including .NET/C# web applications, networking, infrastructure management, SAP S/4HANA support, and IT contract & procurement processes.",
+      "Senior IT Engineer at BCPL handling full-spectrum of IT operations including .NET/C# web applications, networking, infrastructure management, SAP S/4HANA support, and IT contract & procurement processes.",
     icon: React.createElement(CgWorkAlt),
     date: "March 2026 - Present",
   },
